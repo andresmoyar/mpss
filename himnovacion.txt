@@ -1,7 +1,7 @@
 Git0 - Introducción a git
 
 Tipo
-HTML
+txt
 Tamaño
 64 KB (65.378 bytes)
 Almacenamiento usado
@@ -15,7 +15,7 @@ Modificado
 Abierto
 12:21 por mí
 Creado el
-13 may. 2020 con StackEdit
+25 may. 2020 con StackEdit
 Añadir descripción
 Los usuarios con acceso de lectura pueden descargar este elemento
 <!DOCTYPE html>
